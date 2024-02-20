@@ -1,0 +1,6 @@
+#ifndef 			TIMER0_CONFIG_H
+#define 			TIMER0_CONFIG_H
+
+
+#define 		TIMER0_PRESCALLER 		1024
+#define 		TIMER0_MODE 				NORMAL_MODE
